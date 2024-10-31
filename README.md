@@ -57,3 +57,7 @@ Agora. clique em Go to resource.
 Depois de acessar as informações do recurso tcbcusapp01, em Public IP address, clique no ícone destacado para copiar o IP público para a área de transferência.
 
 Para ter acesso via SSH à máquina virtual criada você pode utilizar o gitbash tanto no Linux ,Windows ou Mac. E assi você poderá acessar sua máquina virtual da MICROSOFT AZURE.
+
+## CONCLUSÃO 
+A crição de máquinas virtuais é uma boa idéia te oferecem vários tipos de serviços de acordo com suas necessidades e seguindo todos os passos acima e tomando todos os devidos cuidados você
+pode usar e usufruir de todos os recursos e segurança disponíveis nas nuvens.
